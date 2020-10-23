@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">TP-Android-Florian-Laffargue</string>
+
+    <string-array name="andVersionName">
+        <item>Reine</item>
+        <item>Indienne</item>
+        <item>Saumon</item>
+        <item>Cannibale</item>
+        <item>La pas chère</item>
+    </string-array>
+
+    <string-array name="andVersionDesc">
+        <item>Tomate oignons jambon</item>
+        <item>Tomate oignons poivrons</item>
+        <item>Tomate oignons saumon</item>
+        <item>Tomate oignons viande</item>
+        <item>De la mauvaise nourriture</item>
+
+    </string-array>
+
+</resources>
